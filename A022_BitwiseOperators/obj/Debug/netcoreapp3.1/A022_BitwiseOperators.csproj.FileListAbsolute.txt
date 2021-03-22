@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\bin\Debug\netcoreapp3.1\A022_BitwiseOperators.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\bin\Debug\netcoreapp3.1\A022_BitwiseOperators.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\bin\Debug\netcoreapp3.1\A022_BitwiseOperators.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\bin\Debug\netcoreapp3.1\A022_BitwiseOperators.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\bin\Debug\netcoreapp3.1\A022_BitwiseOperators.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\bin\Debug\netcoreapp3.1\A022_BitwiseOperators.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\obj\Debug\netcoreapp3.1\A022_BitwiseOperators.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\obj\Debug\netcoreapp3.1\A022_BitwiseOperators.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\obj\Debug\netcoreapp3.1\A022_BitwiseOperators.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\obj\Debug\netcoreapp3.1\A022_BitwiseOperators.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\obj\Debug\netcoreapp3.1\A022_BitwiseOperators.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A022_BitwiseOperators\obj\Debug\netcoreapp3.1\A022_BitwiseOperators.genruntimeconfig.cache

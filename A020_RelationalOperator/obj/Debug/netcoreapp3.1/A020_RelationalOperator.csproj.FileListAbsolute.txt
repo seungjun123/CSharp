@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\bin\Debug\netcoreapp3.1\A020_RelationalOperator.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\bin\Debug\netcoreapp3.1\A020_RelationalOperator.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\bin\Debug\netcoreapp3.1\A020_RelationalOperator.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\bin\Debug\netcoreapp3.1\A020_RelationalOperator.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\bin\Debug\netcoreapp3.1\A020_RelationalOperator.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\bin\Debug\netcoreapp3.1\A020_RelationalOperator.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\obj\Debug\netcoreapp3.1\A020_RelationalOperator.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\obj\Debug\netcoreapp3.1\A020_RelationalOperator.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\obj\Debug\netcoreapp3.1\A020_RelationalOperator.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\obj\Debug\netcoreapp3.1\A020_RelationalOperator.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\obj\Debug\netcoreapp3.1\A020_RelationalOperator.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A020_RelationalOperator\obj\Debug\netcoreapp3.1\A020_RelationalOperator.genruntimeconfig.cache
