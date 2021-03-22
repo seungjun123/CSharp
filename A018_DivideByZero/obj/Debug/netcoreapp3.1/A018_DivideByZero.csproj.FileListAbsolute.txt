@@ -1,0 +1,13 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\bin\Debug\netcoreapp3.1\A018_DivideByZero.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\bin\Debug\netcoreapp3.1\A018_DivideByZero.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\bin\Debug\netcoreapp3.1\A018_DivideByZero.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\bin\Debug\netcoreapp3.1\A018_DivideByZero.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\bin\Debug\netcoreapp3.1\A018_DivideByZero.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\bin\Debug\netcoreapp3.1\A018_DivideByZero.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.csprojAssemblyReference.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A018_DivideByZero\obj\Debug\netcoreapp3.1\A018_DivideByZero.genruntimeconfig.cache
