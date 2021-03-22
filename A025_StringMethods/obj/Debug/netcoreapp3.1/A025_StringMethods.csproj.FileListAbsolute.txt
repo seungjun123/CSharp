@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\bin\Debug\netcoreapp3.1\A025_StringMethods.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\bin\Debug\netcoreapp3.1\A025_StringMethods.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\bin\Debug\netcoreapp3.1\A025_StringMethods.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\bin\Debug\netcoreapp3.1\A025_StringMethods.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\bin\Debug\netcoreapp3.1\A025_StringMethods.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\bin\Debug\netcoreapp3.1\A025_StringMethods.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\obj\Debug\netcoreapp3.1\A025_StringMethods.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\obj\Debug\netcoreapp3.1\A025_StringMethods.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\obj\Debug\netcoreapp3.1\A025_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\obj\Debug\netcoreapp3.1\A025_StringMethods.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\obj\Debug\netcoreapp3.1\A025_StringMethods.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A025_StringMethods\obj\Debug\netcoreapp3.1\A025_StringMethods.genruntimeconfig.cache
