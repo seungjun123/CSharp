@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\bin\Debug\netcoreapp3.1\A011_FormatSpecifier.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\bin\Debug\netcoreapp3.1\A011_FormatSpecifier.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\bin\Debug\netcoreapp3.1\A011_FormatSpecifier.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\bin\Debug\netcoreapp3.1\A011_FormatSpecifier.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\bin\Debug\netcoreapp3.1\A011_FormatSpecifier.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\bin\Debug\netcoreapp3.1\A011_FormatSpecifier.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\obj\Debug\netcoreapp3.1\A011_FormatSpecifier.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\obj\Debug\netcoreapp3.1\A011_FormatSpecifier.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\obj\Debug\netcoreapp3.1\A011_FormatSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\obj\Debug\netcoreapp3.1\A011_FormatSpecifier.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\obj\Debug\netcoreapp3.1\A011_FormatSpecifier.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A011_FormatSpecifier\obj\Debug\netcoreapp3.1\A011_FormatSpecifier.genruntimeconfig.cache

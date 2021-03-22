@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\bin\Debug\netcoreapp3.1\A007_ConsoleWriteLine.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\bin\Debug\netcoreapp3.1\A007_ConsoleWriteLine.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\bin\Debug\netcoreapp3.1\A007_ConsoleWriteLine.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\bin\Debug\netcoreapp3.1\A007_ConsoleWriteLine.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\bin\Debug\netcoreapp3.1\A007_ConsoleWriteLine.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\bin\Debug\netcoreapp3.1\A007_ConsoleWriteLine.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\obj\Debug\netcoreapp3.1\A007_ConsoleWriteLine.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\obj\Debug\netcoreapp3.1\A007_ConsoleWriteLine.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\obj\Debug\netcoreapp3.1\A007_ConsoleWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\obj\Debug\netcoreapp3.1\A007_ConsoleWriteLine.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\obj\Debug\netcoreapp3.1\A007_ConsoleWriteLine.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A007_ConsoleWriteLine\obj\Debug\netcoreapp3.1\A007_ConsoleWriteLine.genruntimeconfig.cache
