@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\bin\Debug\netcoreapp3.1\A006_Assignment.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\bin\Debug\netcoreapp3.1\A006_Assignment.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\bin\Debug\netcoreapp3.1\A006_Assignment.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\bin\Debug\netcoreapp3.1\A006_Assignment.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\bin\Debug\netcoreapp3.1\A006_Assignment.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\bin\Debug\netcoreapp3.1\A006_Assignment.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\obj\Debug\netcoreapp3.1\A006_Assignment.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\obj\Debug\netcoreapp3.1\A006_Assignment.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\obj\Debug\netcoreapp3.1\A006_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\obj\Debug\netcoreapp3.1\A006_Assignment.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\obj\Debug\netcoreapp3.1\A006_Assignment.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A006_Assignment\obj\Debug\netcoreapp3.1\A006_Assignment.genruntimeconfig.cache

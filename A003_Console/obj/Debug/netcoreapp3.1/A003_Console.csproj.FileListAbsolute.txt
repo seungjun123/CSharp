@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\bin\Debug\netcoreapp3.1\A003_Console.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\bin\Debug\netcoreapp3.1\A003_Console.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\bin\Debug\netcoreapp3.1\A003_Console.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\bin\Debug\netcoreapp3.1\A003_Console.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\bin\Debug\netcoreapp3.1\A003_Console.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\bin\Debug\netcoreapp3.1\A003_Console.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\obj\Debug\netcoreapp3.1\A003_Console.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\obj\Debug\netcoreapp3.1\A003_Console.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\obj\Debug\netcoreapp3.1\A003_Console.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\obj\Debug\netcoreapp3.1\A003_Console.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\obj\Debug\netcoreapp3.1\A003_Console.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A003_Console\obj\Debug\netcoreapp3.1\A003_Console.genruntimeconfig.cache

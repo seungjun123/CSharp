@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.genruntimeconfig.cache
