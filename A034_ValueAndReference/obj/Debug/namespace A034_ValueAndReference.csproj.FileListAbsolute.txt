@@ -1,0 +1,7 @@
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\bin\Debug\namespace A034_ValueAndReference.exe.config
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\bin\Debug\namespace A034_ValueAndReference.exe
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\bin\Debug\namespace A034_ValueAndReference.pdb
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\obj\Debug\namespace A034_ValueAndReference.csprojAssemblyReference.cache
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\obj\Debug\namespace A034_ValueAndReference.csproj.CoreCompileInputs.cache
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\obj\Debug\namespace A034_ValueAndReference.exe
+C:\Users\조재현\source\repos\namespace A034_ValueAndReference\namespace A034_ValueAndReference\obj\Debug\namespace A034_ValueAndReference.pdb

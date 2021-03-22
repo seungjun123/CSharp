@@ -1,0 +1,7 @@
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\bin\Debug\namespace A033_ConstAndReadonly.exe.config
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\bin\Debug\namespace A033_ConstAndReadonly.exe
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\bin\Debug\namespace A033_ConstAndReadonly.pdb
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\obj\Debug\namespace A033_ConstAndReadonly.csprojAssemblyReference.cache
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\obj\Debug\namespace A033_ConstAndReadonly.csproj.CoreCompileInputs.cache
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\obj\Debug\namespace A033_ConstAndReadonly.exe
+C:\Users\조재현\source\repos\namespace A033_ConstAndReadonly\namespace A033_ConstAndReadonly\obj\Debug\namespace A033_ConstAndReadonly.pdb

@@ -1,0 +1,2 @@
+C:\Users\조재현\source\repos\namespace A031_StringBuilder\namespace A031_StringBuilder\obj\Debug\namespace A031_StringBuilder.csprojAssemblyReference.cache
+C:\Users\조재현\source\repos\namespace A031_StringBuilder\namespace A031_StringBuilder\obj\Debug\namespace A031_StringBuilder.csproj.CoreCompileInputs.cache

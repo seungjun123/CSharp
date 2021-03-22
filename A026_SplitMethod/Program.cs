@@ -1,5 +1,6 @@
 ﻿using System;
-namespace A026_SplitMethod
+
+namespace namespace_A026_SplitMethod
 {
     class Program
     {
@@ -17,5 +18,7 @@ namespace A026_SplitMethod
             }
             Console.WriteLine("결과는 {0}", sum);
         }
+
     }
 }
+  

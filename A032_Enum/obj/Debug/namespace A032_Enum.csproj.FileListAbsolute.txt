@@ -1,0 +1,2 @@
+C:\Users\조재현\source\repos\namespace A032_Enum\namespace A032_Enum\obj\Debug\namespace A032_Enum.csprojAssemblyReference.cache
+C:\Users\조재현\source\repos\namespace A032_Enum\namespace A032_Enum\obj\Debug\namespace A032_Enum.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\bin\Debug\namespace A026_SplitMethod.exe.config
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\bin\Debug\namespace A026_SplitMethod.exe
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\bin\Debug\namespace A026_SplitMethod.pdb
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\obj\Debug\namespace A026_SplitMethod.csprojAssemblyReference.cache
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\obj\Debug\namespace A026_SplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\obj\Debug\namespace A026_SplitMethod.exe
+C:\Users\조재현\source\repos\namespace A026_SplitMethod\namespace A026_SplitMethod\obj\Debug\namespace A026_SplitMethod.pdb
