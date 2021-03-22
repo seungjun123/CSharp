@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\bin\Debug\netcoreapp3.1\A013_TypeConversion.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\bin\Debug\netcoreapp3.1\A013_TypeConversion.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\bin\Debug\netcoreapp3.1\A013_TypeConversion.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\bin\Debug\netcoreapp3.1\A013_TypeConversion.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\bin\Debug\netcoreapp3.1\A013_TypeConversion.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\bin\Debug\netcoreapp3.1\A013_TypeConversion.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\obj\Debug\netcoreapp3.1\A013_TypeConversion.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\obj\Debug\netcoreapp3.1\A013_TypeConversion.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\obj\Debug\netcoreapp3.1\A013_TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\obj\Debug\netcoreapp3.1\A013_TypeConversion.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\obj\Debug\netcoreapp3.1\A013_TypeConversion.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A013_TypeConversion\obj\Debug\netcoreapp3.1\A013_TypeConversion.genruntimeconfig.cache

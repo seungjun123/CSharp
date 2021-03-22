@@ -1,0 +1,12 @@
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\bin\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.exe
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\bin\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.deps.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\bin\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.runtimeconfig.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\bin\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.runtimeconfig.dev.json
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\bin\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\bin\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\obj\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.AssemblyInfoInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\obj\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.AssemblyInfo.cs
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\obj\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.csproj.CoreCompileInputs.cache
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\obj\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.dll
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\obj\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.pdb
+C:\Users\슬빈S컴\Desktop\객체지향\c#basic\namespace A016_Operators\A012_FloatDoubleDecimal\obj\Debug\netcoreapp3.1\A012_FloatDoubleDecimal.genruntimeconfig.cache
