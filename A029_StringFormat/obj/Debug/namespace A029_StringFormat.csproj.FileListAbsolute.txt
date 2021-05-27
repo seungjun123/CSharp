@@ -1,7 +1,0 @@
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\bin\Debug\namespace A029_StringFormat.exe.config
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\bin\Debug\namespace A029_StringFormat.exe
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\bin\Debug\namespace A029_StringFormat.pdb
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\obj\Debug\namespace A029_StringFormat.csprojAssemblyReference.cache
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\obj\Debug\namespace A029_StringFormat.csproj.CoreCompileInputs.cache
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\obj\Debug\namespace A029_StringFormat.exe
-C:\Users\조재현\source\repos\namespace A029_StringFormat\namespace A029_StringFormat\obj\Debug\namespace A029_StringFormat.pdb
