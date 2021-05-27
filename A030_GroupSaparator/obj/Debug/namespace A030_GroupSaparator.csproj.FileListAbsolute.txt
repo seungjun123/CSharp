@@ -1,2 +1,0 @@
-C:\Users\조재현\source\repos\namespace A030_GroupSaparator\namespace A030_GroupSaparator\obj\Debug\namespace A030_GroupSaparator.csprojAssemblyReference.cache
-C:\Users\조재현\source\repos\namespace A030_GroupSaparator\namespace A030_GroupSaparator\obj\Debug\namespace A030_GroupSaparator.csproj.CoreCompileInputs.cache
