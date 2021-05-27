@@ -1,7 +1,0 @@
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\bin\Debug\namespace A035_PassingArrayAndObject.exe.config
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\bin\Debug\namespace A035_PassingArrayAndObject.exe
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\bin\Debug\namespace A035_PassingArrayAndObject.pdb
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\obj\Debug\namespace A035_PassingArrayAndObject.csprojAssemblyReference.cache
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\obj\Debug\namespace A035_PassingArrayAndObject.csproj.CoreCompileInputs.cache
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\obj\Debug\namespace A035_PassingArrayAndObject.exe
-C:\Users\조재현\source\repos\namespace A035_PassingArrayAndObject\namespace A035_PassingArrayAndObject\obj\Debug\namespace A035_PassingArrayAndObject.pdb
