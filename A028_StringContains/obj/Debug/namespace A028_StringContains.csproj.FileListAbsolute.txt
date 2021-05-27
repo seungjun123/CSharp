@@ -1,7 +1,0 @@
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\bin\Debug\namespace A028_StringContains.exe.config
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\bin\Debug\namespace A028_StringContains.exe
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\bin\Debug\namespace A028_StringContains.pdb
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\obj\Debug\namespace A028_StringContains.csprojAssemblyReference.cache
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\obj\Debug\namespace A028_StringContains.csproj.CoreCompileInputs.cache
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\obj\Debug\namespace A028_StringContains.exe
-C:\Users\조재현\source\repos\namespace A028_StringContains\namespace A028_StringContains\obj\Debug\namespace A028_StringContains.pdb
