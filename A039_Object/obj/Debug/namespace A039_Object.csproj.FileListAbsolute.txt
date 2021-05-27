@@ -1,2 +1,0 @@
-C:\Users\조재현\source\repos\namespace A039_Object\namespace A039_Object\obj\Debug\namespace A039_Object.csprojAssemblyReference.cache
-C:\Users\조재현\source\repos\namespace A039_Object\namespace A039_Object\obj\Debug\namespace A039_Object.csproj.CoreCompileInputs.cache
